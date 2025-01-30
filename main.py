@@ -4,7 +4,7 @@ import time
 
 lines = []
 word_list = []
-amount = 400
+amount = 500
 red = "\033[0;31m"
 green = "\033[0;32m"
 reset = "\033[0m"
