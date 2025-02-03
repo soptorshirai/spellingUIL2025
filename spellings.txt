@@ -145,7 +145,7 @@
 145. bombastically
 146. boondoggle •
 147. Boötes
-148. boreal, Bor
+148. boreal, Boreal
 149. borzoi
 150. bouillabaisse •
 151. bradylogia
@@ -498,3 +498,303 @@
 498. gender-neutral
 499. generative
 500. geneticist
+501. gentrification
+502. geostrategy
+503. gerund
+504. gestic
+505. gesundheit •
+506. giardia, Giardia
+507. gilt-edged
+508. glaciologist •
+509. glissando •
+510. Gloucester
+511. goethite
+512. golem •
+513. googol
+514. Gorgonzola
+515. gossipmonger
+516. gourami •
+517. gramineous
+518. granuloma •
+519. Greenwich time •
+520. grimalkin •
+521. groupthink
+522. guayabera
+523. guelder rose
+524. gulag, Gulag
+525. gurus
+526. Gutenberg •
+527. gymkhana
+528. gyral
+529. haberdasher
+530. habitué
+531. hagioscope •
+532. hammertoe
+533. Hare Krishna
+534. harum-scarum
+535. hasenpfeffer •
+536. hawthorn
+537. heathenish
+538. heavy-handed
+539. Hebraist
+540. hectored •
+541. hedonics •
+542. Hejaz, Hedjaz
+543. heliotaxis
+544. hellacious
+545. hemangioma •
+546. hennery
+547. heptastich
+548. Herculaneum
+549. hereditament
+550. Herodotus
+551. heroically
+552. heterogeneity
+553. hexapod •
+554. hierarchize
+555. Hippocratic oath
+556. hispid
+557. Ho Chi Minh •
+558. hollandaise sauce
+559. holographic
+560. homiletics •
+561. homocentric
+562. Hooverville
+563. hors de combat
+564. hospitalization
+565. howitzer
+566. Huitzilopochtli
+567. humidify
+568. hydrocephalous
+569. hydrotherapy
+570. hyoid bone
+571. hypercritical •
+572. hypopnea
+573. ibuprofen
+574. iconoclast •
+575. ideate
+576. idolatry
+577. ihram
+578. ill-considered
+579. illuminati, Illuminati •
+580. illusory •
+581. imam, Imam
+582. imbibition
+583. immiscible •
+584. immunocompromised
+585. impede
+586. impetuosity
+587. impious •
+588. impregnable
+589. improbity
+590. improvident •
+591. impunity
+592. in extremis
+593. in memoriam
+594. in situ
+595. incapacitant
+596. incognizant
+597. incompatibility
+598. incorporeal •
+599. incumbency
+600. incursion
+601. indefensible
+602. indelible •
+603. indigestible
+604. Indonesia •
+605. indophenol
+606. inebriated
+607. inexpiable
+608. infamy •
+609. infrared
+610. inglenook
+611. inglorious •
+612. inimitable
+613. iniquitous
+614. inquietude
+615. insatiate
+616. insouciance •
+617. insurgency
+618. inter alia
+619. intercalary
+620. intercoastal
+621. Interlingua
+622. internecine
+623. intimidation
+624. intonate •
+625. intransigent, intransigeant
+626. intubate
+627. invariable •
+628. iridectomy •
+629. irrefutable
+630. isallobar
+631. isotope
+632. itemization
+633. iterate •
+634. jaçana •
+635. Jacob’s ladder
+636. jai alai
+637. Jaipur
+638. Janus
+639. jejunum
+640. jeté •
+641. jingoist
+642. jocular
+643. John Hancock
+644. jojoba
+645. jubilee, Jubilee
+646. judgmatic
+647. Juneau
+648. jurat •
+649. jus gentium
+650. juvenescent
+651. K ration •
+652. kalimba
+653. kameez
+654. Kandahar, Qandahar
+655. karma •
+656. kefir
+657. kendo •
+658. keratin
+659. ketogenesis
+660. Khoisan
+661. Kiddush
+662. kielbasa •
+663. kilderkin •
+664. kinescope
+665. Kirkuk •
+666. kitsch
+667. Klamath
+668. knar, knaur •
+669. knowledge base
+670. kookiest
+671. Krebs cycle
+672. krumkake
+673. krummhorn, crumhorn
+674. Kurdistan
+675. kyphosis •
+676. labor-intensive
+677. lacertilian •
+678. lactescent
+679. lacustrine
+680. Laertes
+681. laissez-faire
+682. lamedh
+683. lamprey
+684. landsleit
+685. languet •
+686. Laodicean
+687. lapis lazuli •
+688. larcenous •
+689. larghetto
+690. laryngoscope
+691. latifundium
+692. Laundromat, laundromat
+693. Lebanon
+694. lederhosen •
+695. legist •
+696. leisurewear
+697. lemma •
+698. leonine rhyme
+699. leptospirosis
+700. leukocytosis, leucocytosis
+701. leviathan •
+702. levorotatory
+703. Liberia •
+704. Libya
+705. lief •
+706. ligation •
+707. lignum vitae
+708. limbic system
+709. Limburger
+710. linea aspera
+711. linearize
+712. linguaphile
+713. lipectomy
+714. liripipe •
+715. lithotomy
+716. lixiviate
+717. loci
+718. logomachy •
+719. longueur
+720. lorgnette
+721. louche •
+722. Lucite
+723. luculent
+724. ludic •
+725. lumpenproletariat •
+726. lutefisk
+727. lyricize
+728. Maccabeus, Maccabaeus
+729. machicolate •
+730. mackinaw
+731. macrobiotics
+732. madeleine
+733. magna cum laude
+734. maharaja, maharajah
+735. maidenhair fern
+736. majoritarian
+737. malagueña
+738. malediction •
+739. malingerer •
+740. malodorous •
+741. malversation
+742. mandarin, Mandarin
+743. Mandela
+744. mangonel
+745. manipulable
+746. mansuetude •
+747. manteau
+748. Manxwoman
+749. maquiladora •
+750. maraca •
+751. maraud •
+752. marginalize
+753. markhor
+754. marmoreal
+755. marquetry, marqueterie
+756. martingale
+757. masjid
+758. massé •
+759. masticatory
+760. matrilineage
+761. maxillofacial
+762. mazuma
+763. McGuffey
+764. measurable
+765. mediagenic •
+766. mediocrity •
+767. meerschaum •
+768. megalith
+769. Melanesia
+770. melanous
+771. meliorate •
+772. mellifluous
+773. melodeon
+774. memento mori
+775. meno mosso
+776. mercantilism
+777. Mercator projection
+778. merengue
+779. merino •
+780. mesenchyme
+781. mesothelium •
+782. metagnathous
+783. metatarsal
+784. methanol
+785. metonymy •
+786. meunière
+787. microburst
+788. microdot
+789. midwifery •
+790. Miletus •
+791. miliaria
+792. milites gloriosi
+793. millesimal
+794. Minamata disease
+795. minié ball
+796. minor-leaguer
+797. minuscule •
+798. mirepoix •
+799. miscalculate
+800. mise en scène
